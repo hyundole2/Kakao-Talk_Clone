@@ -21,6 +21,7 @@
 
 .find .header-btn__icon {
   font-size: 12px;
+  cursor: pointer;
 }
 
 .find .find__recommended {
