@@ -12,6 +12,7 @@
 .chats-body {
   padding: 10px 0px;
   padding-top: 100px;
+  padding-bottom: 60px;
 }
 
 .chats-body .header,
@@ -22,6 +23,7 @@
 .chats-body {
   background-image: url("../images/chatBg.png");
   min-height: 100vh;
+  overflow: auto;
 }
 
 .chat__write-container {
